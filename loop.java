@@ -8,7 +8,7 @@ import java.util.Scanner;
              System.out.println("How many times should your input be shown? "); 
              int value = Integer.valueOf(reader.nextLine());
              for( i = value; i++){
-               system.out.println(i);
-}
-}
+               System.out.println(i);
+        }
+    }
 }
